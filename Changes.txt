@@ -1,0 +1,19 @@
+You need to do some changes before using this tool or making it executable file.
+
+In,
+
+>> Device IP => Put your Target mobile local IP
+
+>> fmail => your gmail address ( Note: Less secure option should be enabled in your gmail a/c)
+>> password => your gmail password( by which the script will login and send you info )
+
+
+>> email => your gmail address ( Note: Less secure option should be enabled in your gmail a/c)
+
+
+>> subject => any subject name
+
+
+Search this keywords andd do this changes all over the script then your script is ready to go.
+
+Remember you need to replace those keywords  with your Details.

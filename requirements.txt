@@ -1,0 +1,9 @@
+subprocess
+time
+platform
+smtplib
+email
+email.mime.text 
+email.mime.multipart
+win32gui
+win32con

@@ -35,7 +35,7 @@ Search this keywords andd do this changes all over the script then your script i
 # For Linux
 
 1. To gitclone this tool
- >> git clone https://github.com/zWR417H/wispy.git
+ >> git clone https://github.com/ksudhanshu961/wispy.git
 
 2. cd wispy
 3. Now from here you can make changes.
@@ -44,7 +44,7 @@ Search this keywords andd do this changes all over the script then your script i
 # For Windows
 
 1. To gitclone this tool
- >> git clone https://github.com/zWR417H/wispy.git
+ >> git clone https://github.com/ksudhanshu961/wispy.git
 
 **or**
 Click on download master file in github wispy
